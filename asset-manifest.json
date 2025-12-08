@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47dac90d.css",
+    "main.js": "/static/js/main.a470d7bb.js",
+    "static/js/453.d7446e4a.chunk.js": "/static/js/453.d7446e4a.chunk.js",
+    "static/media/NDOT-Regular.otf": "/static/media/NDOT-Regular.b028a53e2004822d779d.otf",
+    "index.html": "/index.html",
+    "main.47dac90d.css.map": "/static/css/main.47dac90d.css.map",
+    "main.a470d7bb.js.map": "/static/js/main.a470d7bb.js.map",
+    "453.d7446e4a.chunk.js.map": "/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47dac90d.css",
+    "static/js/main.a470d7bb.js"
+  ]
+}
